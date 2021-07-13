@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Space Mono", monospace;
+  width: 100vw;
+  height: 100vh;
+  background-color: hsl(185, 41%, 84%);
+}
