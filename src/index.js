@@ -9,6 +9,7 @@ import { Provider } from "react-redux";
 ReactDOM.render(
   <Provider store={store}>
     <App />
+    <a href="https://github.com/Atryom-Bohaturou/Tip-Calculator">"Repository of this project"</a>
   </Provider>,
   document.getElementById('root')
 );
