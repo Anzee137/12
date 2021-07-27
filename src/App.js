@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <InputFields />
       <Display />
-      <a href="https://github.com/Atryom-Bohaturou/Tip-Calculator">"Repository of this project"</a>
+      
     </div>
   );
 }
